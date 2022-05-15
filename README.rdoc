@@ -2,6 +2,8 @@
 
 XMP provides object oriented interface to XMP data (http://en.wikipedia.org/wiki/Extensible_Metadata_Platform). XMP data can be found in PDF, JPEG, GIF, PNG, and many other formats.
 
+Forked to bump Nokogiri
+
 == Supported formats
 
 Currently only JPEG is supported through exifr gem.
